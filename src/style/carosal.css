@@ -1,0 +1,16 @@
+.crtxt{
+
+    right: 0px;
+    top: 85px;
+    font-size: 90px;
+    color: white;
+    padding: 15px 175px 20px 105px;
+    background:rgba(0,0,0,0.3);
+    
+    border-radius: 5% 0 0 5%;
+}
+.run{
+    bottom: 15px;
+    background-color: white;
+
+}

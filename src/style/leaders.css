@@ -1,0 +1,31 @@
+.leaders{
+    padding: 10%;
+    background-color: black;
+    /* flex-wrap: wrap; */
+}
+.ledhead{
+    font-size: 40px;
+    color: white;
+}
+.head{
+    font-size: 50px;
+    font-weight: 500;
+}
+.ledpara{
+    width: 350px;
+    color: white;
+}
+.btnv{
+    height: 55px;
+    width: 135px;
+    background-image: linear-gradient(#08A84E, #AAFF00);
+    border-radius: 12px;
+    font-size: 18px;
+    font-weight: 500;
+    margin-top: 40px;
+}
+
+.leadimg{
+    gap: 3rem;
+    padding-left: 100px;
+}
